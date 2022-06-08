@@ -97,7 +97,7 @@ textarea {
 
 
 html {
-  background-color: #f7f0e1;
+  background-color: #7bf8a2;
   height: 100%;
   width: 100%;
 }
@@ -115,6 +115,7 @@ body {
   flex-flow: row wrap;
   justify-content: space-between;
   max-width: 1200px;
+  height: 30%;
 }
 
 p span {
@@ -137,7 +138,7 @@ main {
     width: 100%;
     display: flex;
     justify-content: center;
-    border-bottom: 1px solid #e81ede;
+    border-bottom: 1px solid #adf8a3;
 }
 
 main p {
@@ -150,7 +151,7 @@ main p {
   align-items: center;
   line-height: 1.5em;
   font-size: 1em;
-  border-bottom: 1px solid #e81ede; 
+  
 }
 
 footer {
